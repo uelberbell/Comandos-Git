@@ -43,7 +43,7 @@ Git é um sistema de controle de versão de código fonte amplamente utilizado p
 ```
 - Para confirmar as alterações e criar um novo commit, execute o seguinte comando:
 ```bash
-    git commit -m "sua mensagem contento informçãos sobre a modificação realizada"
+    git commit -m "sua mensagem contendo informçãos sobre a modificação realizada"
 ```
 
 
