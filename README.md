@@ -1,8 +1,6 @@
 
 # Comandos Git
 ![](https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47ra1q9kaeylvc0bhabe9ppleh8syht0b46hly3qta&ep=v1_gifs_related&rid=giphy.gif&ct=s)
-
-
 ## Autores
 
 - [@uelberbell](https://www.github.com/uelberbell)
